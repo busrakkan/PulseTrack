@@ -1,4 +1,4 @@
-# PulseTrack 🩺
+# PulseTrack 
 
 A modular iOS application built with **Swift** and **SwiftUI**, designed to track and manage heart rate data following Clean Architecture principles.
 
